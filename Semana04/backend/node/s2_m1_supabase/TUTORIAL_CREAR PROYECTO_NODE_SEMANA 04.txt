@@ -1,0 +1,15 @@
+SEMANA 04
+
+1) Crear las carpetas Semana04/backend/node/s2_m1_supabase
+2) Abrir la ultima carpeta (VS C)
+3) Abrir el git bash y colocar el código -> npm install express cors dotenv @supabase/supabase-j
+
+    Ese código sirve para crear algunos archivos con la carpeta node_modules
+
+4) Luego color el código -> npm init -y
+5) De la GUIA M1 - Login y Autenticación, armar las carpetas como en la guía
+6) Copiamos todos los códigos de la guía, actualizamos la API KEY y el URL API
+7) Para levantar y correr el backend escribir en el git bash -> node app.js
+
+
+token- "eyJhbGciOiJFUzI1NiIsImtpZCI6IjZmODYwMzI2LWJjMWEtNGYxMC1iZTBlLWUxZDgwZjgwMDQ2ZCIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2Z3bWJqenB5ZHVqc2NvbHl4Y3R1LnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmMzJlMmFhZC01MGM0LTRhZDctYWQ1ZC1iMWEzZDY0NmUxYmQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzc1NjEzNDQyLCJpYXQiOjE3NzU2MDk4NDIsImVtYWlsIjoibXZwQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZW1haWxfdmVyaWZpZWQiOnRydWV9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6InBhc3N3b3JkIiwidGltZXN0YW1wIjoxNzc1NjA5ODQyfV0sInNlc3Npb25faWQiOiI3NzgzM2JhMi04NjZkLTRjMzAtYWFiMC05MWY0OGQxN2VhMmUiLCJpc19hbm9ueW1vdXMiOmZhbHNlfQ.sSWAlE2hRMzfcviTQQLXx4CZrCtu1pbUxQXnyEMrN5cNa9h9p8bCPkBYanzDxAp1WoTuiwHq4KdNdP-L-yq99Q"
